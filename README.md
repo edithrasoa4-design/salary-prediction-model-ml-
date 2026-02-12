@@ -109,8 +109,7 @@ The model generated salary predictions based on learned patterns from historical
 ## ▶️ How to Run This Project
 
 1. Clone this repository:
-git clone https://github.com/yourusername/yourrepository.git
-
+git clone (https://github.com/edithrasoa4-design/salary-prediction-model-ml-)
 2. Open the notebook in Google Colab or Jupyter Notebook
 3. Run all cells to train the model and generate predictions
 
